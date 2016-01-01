@@ -34,7 +34,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", "Hiragino Kaku Gothic", "MS Gothic", sans-serif;
 }
 @media (min-width: 48em) {
   html {
