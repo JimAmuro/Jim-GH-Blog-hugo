@@ -1,0 +1,9 @@
+baseurl = "http://JimAmuro.github.io/"
+languageCode = "en-us"
+title = "Jim Amuro"
+theme = "hyde"
+
+[params]
+    description = "Personal Blog of Hui Sun"
+    themeColor = "theme-base-0d"
+    disqusShortname = "jimgithub"
