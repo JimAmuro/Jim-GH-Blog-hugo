@@ -4,4 +4,4 @@ title = "Test Pic"
 
 +++
 I love math!
-{{< figure src="/media/how to study math.jpg" Alt="How To Study Math" >}}
+{{< figure src="/media/how to study math.jpg" title="How To Study Math" >}}

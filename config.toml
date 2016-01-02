@@ -2,8 +2,12 @@ baseurl = "http://JimAmuro.github.io/"
 languageCode = "en-us"
 title = "Jim Amuro"
 theme = "hyde"
+hasCJKLanguage = true
+pygmentsstyle = "default"
 
 [params]
-    description = "Personal Blog of Hui Sun"
+    description = "Personal Website of Hui Sun"
+    author = "Hui Sun"
     themeColor = "theme-base-0d"
     disqusShortname = "jimgithub"
+    copyright= "Built by Hui Sun using "

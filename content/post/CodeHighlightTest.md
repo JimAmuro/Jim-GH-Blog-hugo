@@ -3,7 +3,7 @@ date = "2015-12-31T22:58:53-08:00"
 title = "Code Highlight Test"
 
 +++
-Test
+
 {{< highlight html "linenos=inline" >}}
 <section id="main">
   <div>
@@ -14,7 +14,6 @@ Test
   </div>
 </section>
 {{< /highlight >}}
-End Test
 
 {{< highlight c >}}
 /*Standard system stuff - these are the ONLY ones that may be used.*/
