@@ -4,6 +4,12 @@ title = "Jim Amuro"
 theme = "hyde"
 hasCJKLanguage = true
 pygmentsstyle = "default"
+SectionPagesMenu = "main"
+[[menu.main]]
+    name = "My GitHub"
+    weight = 21
+    identifier = "GH"
+    url = "https://github.com/JimAmuro"
 
 [params]
     description = "Personal Website of Hui Sun"

@@ -4,7 +4,7 @@ title = "Test MathJax"
 
 +++
 
-inline $$ e^{i\pi}=-1 $$  
+Euler: $$ e^{i\pi}=-1 $$  
 
 $$ f(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+...+a_0 $$  
 
