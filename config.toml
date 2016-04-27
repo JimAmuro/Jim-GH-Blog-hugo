@@ -12,7 +12,7 @@ SectionPagesMenu = "main"
     url = "https://github.com/JimAmuro"
 
 [params]
-    description = "Personal Website of Hui Sun"
+    description = "Pursuing non-trivial truth through intuition and deduction."
     author = "Hui Sun"
     themeColor = "theme-base-0d"
     disqusShortname = "jimgithub"
